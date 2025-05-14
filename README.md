@@ -18,7 +18,7 @@ Analizar la evolución de la deforestación en Argentina entre los años 2001 y 
 
 ## Fuente de Datos
 
-Los datos utilizados para este análisis provienen de [Ministerio de Ambiente y Desarrollo Sostenible de Argentina](https://www.argentina.gob.ar/ambiente/deforestacion). Estos datos incluyen información sobre la cantidad de hectáreas deforestadas por provincia y año, desde 2001 hasta 2020.
+Los datos utilizados para este análisis provienen de [ Plataforma Trase](https://trase.earth/open-data/datasets/spatial-metrics-argentina-territorial-deforestation). Estos datos incluyen información sobre la cantidad de hectáreas deforestadas por provincia y año, desde 2001 hasta 2020.
 
 ---
 
@@ -29,8 +29,6 @@ El repositorio contiene los siguientes archivos:
 - `README.md`: Documento que describe el proyecto.
 - `dataset_deforestacion.csv`: Dataset con información de hectáreas deforestadas por provincia y año.
 - `analisis_deforestacion.ipynb`: Jupyter notebook que contiene el análisis, visualización y predicción sobre la deforestación.
-- `limpieza_datos.py`: Script de Python utilizado para la limpieza y preprocesamiento de datos.
-
 ---
 
 ## Pasos de Limpieza de Datos
